@@ -46,4 +46,4 @@ touch README.md
 echo  cool GitHub https://github.com/wiznob/Bash-Script > README.md
 
 # Finished message 
-echo "Script execution completed."
+echo "Job completed :)"
