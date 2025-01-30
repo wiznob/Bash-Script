@@ -44,8 +44,8 @@ chmod 777 1_2.txt
 cd ..
 touch README.md
 echo  "# Week 2 Lab - Bash & Git"  > README.md
-echo "---">> README.md
 echo cool GitHub https://github.com/wiznob/Bash-Script >> README.md
+echo "---">> README.md
 echo To run file type: bash script.sh into terminal >> README.md
 
 # Finished message 
