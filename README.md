@@ -1,1 +1,1 @@
-cool GitHub https://github.com/wiznob/Bash-Script
+# Week 2 Lab - Bash & Git

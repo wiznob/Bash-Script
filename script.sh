@@ -43,7 +43,7 @@ chmod 777 1_2.txt
 #Adding Read.MD
 cd ..
 touch README.md
-echo  cool GitHub https://github.com/wiznob/Bash-Script > README.md
+echo  "# Week 2 Lab - Bash & Git"  > README.md
 
 # Finished message 
-echo "Job completed :)"
+echo "Job completed"
